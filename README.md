@@ -18,6 +18,8 @@
 
 ---
 
+
+---
 ## 🔧 Technologies Used
 
 - **Azure Data Factory** – Web, Copy, and Lookup Activities
@@ -27,6 +29,36 @@
 - **REST APIs & HTTP Connections** – Pulling metadata from GitHub
 - **CSV Dataset** – Netflix titles data (Kaggle)
 
+---
+
+## 🚀 Key Technical Highlights
+
+- **Azure Data Factory (ADF)**
+  - Parameterized pipelines with dynamic inputs
+  - Web activity, HTTP connectors, and REST API integration
+  - Lookup + Copy activities for controlled pipeline flow
+
+- **Azure Data Lake Storage Gen2**
+  - Layered data architecture (Bronze, Silver, Gold)
+  - Folder-based structured storage zones
+
+- **Azure Databricks**
+  - Auto Loader for streaming ingestion
+  - Notebook-driven ETL and transformation logic
+  - Widget-based parameterization for flexibility
+  - Delta Table write operations with overwrite and append modes
+
+- **Delta Live Tables (DLT)**
+  - Real-time data streaming to Gold layer
+  - Data quality rules for validation and filtering
+  - Streaming table creation with schema enforcement
+
+- **Additional Concepts**
+  - Error handling & pipeline debugging in ADF
+  - REST API calls for data and metadata pull
+  - Use of variables, dictionaries, and control flow in notebooks
+
+---
 ---
 
 ## 🧱 Architecture Overview
