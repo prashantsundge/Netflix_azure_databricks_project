@@ -16,10 +16,9 @@
 - `pipeline1.zip`: Azure Data Factory pipeline export.
 - `pipeline1_support_live.zip`: ADF support files for parameterized data movement.
 
----
 
 
----
+
 ## 🔧 Technologies Used
 
 - **Azure Data Factory** – Web, Copy, and Lookup Activities
@@ -29,7 +28,7 @@
 - **REST APIs & HTTP Connections** – Pulling metadata from GitHub
 - **CSV Dataset** – Netflix titles data (Kaggle)
 
----
+
 
 ## 🚀 Key Technical Highlights
 
@@ -58,8 +57,7 @@
   - REST API calls for data and metadata pull
   - Use of variables, dictionaries, and control flow in notebooks
 
----
----
+
 
 ## 🧱 Architecture Overview
 
@@ -73,9 +71,7 @@ Databricks Auto Loader (Streaming to Bronze)
 Delta Tables (Silver with transformation & validation)
         ↓
 Delta Live Tables (Gold + Streaming + Quality Rules)
-```
 
----
 
 ## 🚀 How to Run
 
@@ -103,7 +99,7 @@ https://github.com/prashantsundge/Netflix_azure_databricks_project
    - Clean and transform data.
    - Load into Delta tables and DLT.
 
----
+
 
 ## 📊 Features
 
@@ -113,7 +109,7 @@ https://github.com/prashantsundge/Netflix_azure_databricks_project
 - 🧪 Data quality checks and conditional filtering
 - 🧠 Job-interview-ready skillset with modern tooling
 
----
+
 
 ## 📸 Demo Screenshots
 ![image](https://github.com/user-attachments/assets/936af19e-96fb-4fe5-a1bb-dfa1299d4205)
@@ -129,7 +125,6 @@ https://github.com/prashantsundge/Netflix_azure_databricks_project
 
 ![image](https://github.com/user-attachments/assets/721df1fb-af0f-4cf4-a1ca-36cf39a9b1af)
 
----
 
 ## 🧾 Credits
 
