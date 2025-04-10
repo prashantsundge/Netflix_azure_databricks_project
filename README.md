@@ -1,13 +1,7 @@
-Perfect! Since you've uploaded all your Databricks notebooks and pipeline files, here's the **final version of the `README.md`** that reflects your exact project setup:
-
----
 
 ```markdown
 # 🎥 Azure End-to-End Data Engineering Project — Netflix Dataset (2025 Ready)
 
-This project is based on Monica's YouTube tutorial: [The ONLY Azure End-To-End Data Engineering Project You NEED in 2025](https://www.youtube.com/watch?v=uc-u_juRg-w). It demonstrates how to build a real-time, production-ready Azure Data Engineering pipeline using Databricks, Delta Live Tables, Azure Data Factory, and more.
-
----
 
 ## 📁 Project Files
 
