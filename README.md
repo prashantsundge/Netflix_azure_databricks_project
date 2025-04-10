@@ -81,7 +81,7 @@ Delta Live Tables (Gold + Streaming + Quality Rules)
 
 1. **Clone this repo & unzip pipeline files**:
 ```bash
-git clone https://github.com/your-username/azure-netflix-data-eng-2025.git
+https://github.com/prashantsundge/Netflix_azure_databricks_project
 ```
 
 2. **Upload Notebooks**:
